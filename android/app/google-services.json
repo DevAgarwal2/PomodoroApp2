@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "540853008508",
+    "project_id": "pomodroapp-13be0",
+    "storage_bucket": "pomodroapp-13be0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:540853008508:android:34bcc9967bcf1507c971f9",
+        "android_client_info": {
+          "package_name": "com.example.pomodroapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAe6TNtvJO6SS__SfV5Xi17IMNo6ehlIRQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
